@@ -1,4 +1,4 @@
 runtime: python310
 entrypoint: uvicorn main:app --host=0.0.0.0 --port=$PORT
 env_variables:
-  SENDGRID_API_KEY: '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'
+  SENDGRID_API_KEY: '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'
